@@ -17,3 +17,5 @@
 
 > All related work to playwright and tutorials all dumped here 
 
+1. Make notes of each in seperate dira 
+
