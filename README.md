@@ -9,6 +9,8 @@
 ---
 
 1. [🔢 What ?](#-what-)
+2. [Teting with UV](#teting-with-uv)
+   1. [Installation into isolated environment](#installation-into-isolated-environment)
 
 
 ---
@@ -19,3 +21,16 @@
 
 1. Make notes of each in seperate dira 
 
+# Teting with UV 
+
+> Doign some testing witht he UV package manager 
+>
+
+ https://docs.astral.sh/uv/getting-started/installation/#standalone-installer
+- Running these installs 
+
+## Installation into isolated environment 
+
+```sh 
+pipx install uv
+```
