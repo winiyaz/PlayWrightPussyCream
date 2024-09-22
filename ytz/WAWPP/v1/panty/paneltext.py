@@ -17,3 +17,7 @@ def mistress():
     )
     #    Print the Panel
     console.print(panel)
+
+
+#  Call function
+mistress()
