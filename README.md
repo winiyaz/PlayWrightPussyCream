@@ -11,6 +11,7 @@
 1. [🔢 What ?](#-what-)
 2. [Teting with UV](#teting-with-uv)
    1. [Installation into isolated environment](#installation-into-isolated-environment)
+3. [Direa](#direa)
 
 
 ---
@@ -34,3 +35,15 @@
 ```sh 
 pipx install uv
 ```
+
+# Direa 
+
+Explanation of the work inside the directories 
+
+👍 | 🥇
+| --- | --- |
+[`KAG`](./KAG/) | Playwright Tutorial work being done in kaggle notebook. Notebooks dumped here 
+[`UVWORK`](./UVWORK/) | TEsting [`UV`](https://docs.astral.sh/uv/) - Rust based python package manager that  combined multiple tools into one
+[`wander`](./wander/) | Random github repos downloaded to stick nose in her ass 
+[`ytz`](./ytz/) | SmellyFetishLadies from youtube channel
+
